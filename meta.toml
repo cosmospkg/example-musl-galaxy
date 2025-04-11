@@ -1,0 +1,4 @@
+name = "example"
+description = "Example Galaxy for Cosmos Package Manager"
+version = "2025.04.11"
+[stars]
