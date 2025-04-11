@@ -87,9 +87,9 @@ Then update `meta.toml` to include the new Star and version.
 ---
 
 ## 🔗 Links
-- [Cosmos](https://github.com/cosmospkg/cosmos)
-- [Stellar](https://github.com/cosmospkg/stellar)
-- [Docs](https://docs.cosmos-pkg.org)
+- [Cosmos CLI & Core](../cosmos)  
+- [Stellar Package Builder](../stellar)  
+- [Documentation](https://docs.cosmos-pkg.org)
 
 ---
 
