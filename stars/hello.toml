@@ -1,0 +1,8 @@
+name = "hello"
+version = "1.0.0"
+type = "normal"
+description = "A hello world program (glibc)"
+install_script = "install.lua"
+
+[authors]
+afroraydude = "afroraydude@protonmail.com"

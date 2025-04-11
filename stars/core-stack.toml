@@ -1,0 +1,8 @@
+name = "core-stack"
+version = "1.0.0"
+type = "nebula"
+description = "A simulation of a nebula"
+install_script = "install.lua"
+
+[authors]
+afroraydude = "afroraydude@protonmail.com"
