@@ -6,3 +6,6 @@ install_script = "install.lua"
 
 [authors]
 afroraydude = "afroraydude@protonmail.com"
+
+[dependencies]
+hello = "1.0.0"
