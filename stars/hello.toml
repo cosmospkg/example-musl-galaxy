@@ -1,7 +1,7 @@
 name = "hello"
 version = "1.0.0"
 type = "normal"
-description = "A hello world program (glibc)"
+description = "A hello world program (musl libc)"
 install_script = "install.lua"
 source = "./packages/hello-1.0.0.tar.gz"
 
